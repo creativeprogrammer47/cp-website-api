@@ -1,6 +1,13 @@
 {
   "posts":
   [   
+     {
+      "imgUrl":
+      "https://raw.githubusercontent.com/creativeprogrammer47/images/main/img-37.png",
+      "heading": "Timeline",
+      "caption": "Responsive timeline using HTML & CSS ",
+      "codepenhash" : "ZEeGwVQ"
+    }, 
     {
       "imgUrl":
       "https://raw.githubusercontent.com/creativeprogrammer47/images/main/img-43.png",

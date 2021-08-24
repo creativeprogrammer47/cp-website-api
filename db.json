@@ -1,7 +1,12 @@
 {
   "posts":
   [   
-     {
+    {
+      "heading": "Text Animation",
+      "caption": "Text fade-in animation for your portfolio",
+      "codepenhash" : "JjJjxmW"
+    },  
+    {
       "heading": "Radio button",
       "caption": "Interactive Radio Button Animation  Using CSS",
       "codepenhash" : "vYxGjYz"

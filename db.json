@@ -2,6 +2,11 @@
   "posts":
   [   
     {
+      "heading": "Variable Fonts animation",
+      "caption": "Work life balance Variable Fonts animation",
+      "codepenhash" : "JjJrzvo"
+    }, 
+    {
       "heading": "Text Animation",
       "caption": "Text fade-in animation for your portfolio",
       "codepenhash" : "JjJjxmW"
